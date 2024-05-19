@@ -1,0 +1,41 @@
+#main-poster{
+    padding: 70px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: maroon;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#title {
+    width: 100%;
+    height: 100%;
+    padding: 100px;
+    display:flexbox;
+    justify-content:unset;
+}
+
+#title-left p {
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+}
+
+#title-left h1{
+    font-size: 40px;
+    color: #fff;
+}
+
+#title-a h1{
+    font-size: 30px;
+    color:#fff;
+}
+
+#title-b h1{
+    font-size: 30px;
+    color:#fff;
+}
